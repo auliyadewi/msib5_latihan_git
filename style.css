@@ -1,0 +1,33 @@
+/* Reset CSS untuk menghilangkan margin dan padding default */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Gaya header */
+header {
+    background-color: #cd6161;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #976969;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
